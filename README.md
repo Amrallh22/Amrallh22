@@ -26,15 +26,6 @@ My focus is on writing clean code and creating professional interfaces.
 - [Landing Page](#) • [Portfolio](#) • [CV Template](#)
 
 ---
-
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" height="140" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" height="140" />
-</p>
-
-*(Replace `USERNAME` with your GitHub username.)*
-
 ---
 
 ## 📫 Contact
